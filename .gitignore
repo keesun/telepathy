@@ -8,4 +8,4 @@ target/
 .settings/
 .classpath
 # 테스트 실행 결과 생기는 파일 제외
-/test/quize/number02/*.out
+/test/quiz/number02/*.out
